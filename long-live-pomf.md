@@ -7,7 +7,5 @@
 | https://catbox.moe/        | Up     |                                               |              200 | Yes      |
 | https://biyori.moe/        | Up     |                                               |              100 | No       |
 | https://cocaine.ninja/     | Up     |                                               |               32 | Yes      |
-| https://pomf.pyonpyon.moe/ | Up     |                                               |               50 | No       |
-| http://up.che.moe/         | Up     |                                               |               50 | No       |
 | https://safe.fiery.me/     | Up     | https://github.com/WeebDev/lolisafe           |              512 | Yes      |
 | https://cutie.wtf/         | Up     | ^                                             |              100 | Yes      |
